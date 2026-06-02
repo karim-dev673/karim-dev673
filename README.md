@@ -18,6 +18,8 @@ Frontend
 * HTML5
 * CSS3
 * JavaScript (ES6+)
+* TypeScript
+* Next.js
 * React
 
 Backend
@@ -39,6 +41,7 @@ Tools
 📂 Projects
 
 * Trelo-clone: https://github.com/karim-dev673/trello-clone
+* Saas-app: https://github.com/karim-dev673/saas-app
 
 
 📚 Currently Learning
