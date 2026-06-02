@@ -42,15 +42,8 @@ Tools
 
 * Trelo-clone: https://github.com/karim-dev673/trello-clone
 * Saas-app: https://github.com/karim-dev673/saas-app
+* Healthcare-app: https://github.com/karim-dev673/healthcare-main
 
-
-📚 Currently Learning
-
-* React Hooks
-* PostgreSQL
-* Node.js
-* Algorithms and Data Structures
-* Technical Interview Preparation
 
 📫 Contact Me
 
