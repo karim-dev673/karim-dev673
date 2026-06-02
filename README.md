@@ -38,7 +38,8 @@ Tools
 
 📂 Projects
 
---------------
+* Trelo-clone: https://github.com/karim-dev673/trello-clone
+
 
 📚 Currently Learning
 
